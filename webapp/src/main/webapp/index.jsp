@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Ansible  + Tomacat + GIT Technology !!! </h1>
+<h1> Hello, Welcome to Ansible  + Tomcat + GIT Technology !!! </h1>
 
